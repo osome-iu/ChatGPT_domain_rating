@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains the code and data for the paper "Large language models can rate news outlet credibility."
+This repo contains the code and data for the paper [Large language models can rate news outlet credibility](https://arxiv.org/abs/2304.00228).
 
 We use the following data in our study:
 
@@ -23,7 +23,7 @@ If you use our data or code in your research, please cite our work as follows:
 @article{yang2023large,
   title={Large language models can rate news outlet credibility},
   author={Yang, Kai-Cheng and Menczer, Filippo},
-  journal={Preprint},
+  journal={Preprint arXiv:2304.00228},
   year={2023}
 }
 ```
