@@ -1,6 +1,8 @@
+**[Note]:** We released a new version of the paper with substantial modifications. Please refer to https://github.com/osome-iu/llm_domain_rating for the updated materials.
+
 # Introduction
 
-This repo contains the code and data for the paper [Large language models can rate news outlet credibility](https://arxiv.org/abs/2304.00228).
+This repo contains the code and data for an older version of our paper with the name [Large language models can rate news outlet credibility](https://arxiv.org/abs/2304.00228).
 
 We use the following data in our study:
 
